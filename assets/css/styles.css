@@ -86,7 +86,7 @@ img {
 .g-one {
   background: var(--moderate-violet);
   height: 100%;
-  background-image: url("/assets/images/bg-pattern-quotation.svg");
+  background-image: url("https://raw.githubusercontent.com/nurularifin83/Testimonials-grid-section/b90867d0073693b68396fa2427f5a50dc9e524f5/assets/images/bg-pattern-quotation.svg");
   background-repeat: no-repeat;
   width: 100%;
   background-position: 80% 0;
